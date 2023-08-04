@@ -3,6 +3,7 @@
   <img src="https://hrcdn.net/fcore/assets/generated-badges/cpp_level_3_stars_5_linkedin-66e75f92b0.png" alt="Image 2" style="display:inline-block;" height="200">
 </div>
 
+<div align="center">
 
 |         challenge           |solution                       |
 |-------------------------------|-----------------------------|
@@ -10,3 +11,5 @@
 |[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)|[IO.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/IO.cpp)|
 |[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)|[basic_data_type.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/basic_data_type.cpp)|
 |[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)|[conditions.cpp]()|
+
+</div>
