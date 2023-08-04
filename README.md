@@ -1,4 +1,8 @@
-# HackerRank_cpp
+<div align="center">
+  <img src="https://camo.githubusercontent.com/f5b647730070ad5d974f6ac2aba8f3a08dc683a5c0d56a8348778b5130a7567e/68747470733a2f2f6e6569752e61636d2e6f72672f77702d636f6e74656e742f75706c6f6164732f323031342f31312f6861636b657272616e6b2e706e67" alt="Image 1" style="display:inline-block; margin-right: 20px;" height="200">
+  <img src="https://hrcdn.net/fcore/assets/generated-badges/cpp_level_3_stars_5_linkedin-66e75f92b0.png" alt="Image 2" style="display:inline-block;" height="200">
+</div>
+
 
 |         challenge           |solution                       |
 |-------------------------------|-----------------------------|
