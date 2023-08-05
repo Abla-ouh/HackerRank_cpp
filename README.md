@@ -10,6 +10,9 @@
 |[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)|[hello.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/Hello.cpp)|
 |[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)|[IO.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/IO.cpp)|
 |[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)|[basic_data_type.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/basic_data_type.cpp)|
-|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)|[conditions.cpp]()|
+|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)|[conditions.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/conditions.cpp)|
+|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true)|[functions.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/functions.cpp)|
+|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true)|[Ptr.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/pointer.cpp)|
+|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true)|[arr.cpp](https://github.com/Abla-ouh/HackerRank_cpp/blob/main/array.cpp)|
 
 </div>
